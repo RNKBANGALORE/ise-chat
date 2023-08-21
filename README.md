@@ -29,7 +29,7 @@ Video chat using webRTC
 - Clone this repo
 
 ```bash
-git clone https://github.com/harish-h27/dsce-ise-chat.git
+git clone https://github.com/RNKBANGALORE/ise-chat.git
 cd dsce-ise-chat
 ```
 
@@ -78,4 +78,4 @@ Many Thanks to:
 - Karthik
 - Bharath
 
-<p align="center"> Made with ❤️ by <a href="https://www.linkedin.com/in/harish-h-0807561b3/">Harish H</a></p>
+
